@@ -6,6 +6,10 @@ This project was initialized with [Create React App](https://github.com/facebook
 
 Clone into the repository on your own device. In the project directory, you can run:
 
+### `npm i` 
+
+Short for `npm install` this will download the necessary dependencies for the app.
+
 ### `npm start`
 
 Runs the app in the development mode.\
