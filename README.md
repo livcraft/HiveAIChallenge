@@ -1,6 +1,6 @@
 # Hi HiveAI! Thanks for checking out my 24hr Front-end Challenge.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was initialized with [Create React App](https://github.com/facebook/create-react-app).
 
 ## To run the project:
 
